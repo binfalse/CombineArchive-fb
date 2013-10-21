@@ -14,9 +14,9 @@ namespace LibCombine
         /// </summary>
         public static Dictionary<string, string> KnownFormats = new Dictionary<string, string> { 
             {"sbml", "http://identifiers.org/combine.specifications/sbml" },
-            {"sedml", "http://identifiers.org/combine.specifications/sedml" },
+            {"sedml", "http://identifiers.org/combine.specifications/sed-ml" },
             {"cellml", "http://identifiers.org/combine.specifications/cellml" },
-            {"sed-ml", "http://identifiers.org/combine.specifications/sedml" },
+            {"sed-ml", "http://identifiers.org/combine.specifications/sed-ml" },
             {"sbgn", "http://identifiers.org/combine.specifications/sbgn" },
             {"omex", "http://identifiers.org/combine.specifications/omex-metadata" },
             {"manifest", "http://identifiers.org/combine.specifications/omex-manifest" },
